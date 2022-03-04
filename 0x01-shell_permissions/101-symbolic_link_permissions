@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h vinvent:staff _hello 
+chown vinvent:staff _hello 
