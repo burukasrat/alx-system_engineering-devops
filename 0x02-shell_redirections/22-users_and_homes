@@ -1,2 +1,2 @@
 #!/bin/bash
-less /etc/passwrd > sort
+less /etc/passwrd | sort
